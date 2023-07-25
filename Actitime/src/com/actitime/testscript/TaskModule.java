@@ -1,5 +1,7 @@
-package com.actitime.testscript;
+.package com.actitime.testscript;
 
 public class TaskModule {
-System.out.println("task");
+public static void main(String[] args) {
+	System.out.println("hai");
+} 
 }
